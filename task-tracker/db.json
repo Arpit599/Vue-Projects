@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Go to mall",
+      "day": "June 1st at 12:00pm",
+      "reminder": true
+    },
+    {
+      "text": "Buy protein",
+      "reminder": true,
+      "day": "7 baje sube",
+      "id": 3
+    },
+    {
+      "text": "Listen music",
+      "reminder": true,
+      "day": "7 baje sube",
+      "id": 4
+    },
+    {
+      "text": "Buy protein",
+      "reminder": false,
+      "day": "7 baje sube",
+      "id": 5
+    },
+    {
+      "text": "Wash laundry",
+      "reminder": false,
+      "day": "7 baje sube",
+      "id": 6
+    }
+  ]
+}
